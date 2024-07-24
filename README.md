@@ -1,4 +1,4 @@
-# <span style="color: pink;">**Entendendo algoritmos: um guia ilustrado para programadores e outros curiosos**</span>
+# ![Entendendo algoritmos: um guia ilustrado para programadores e outros curiosos](https://img.shields.io/badge/Entendendo_algoritmos:_um_guia_ilustrado_para_programadores_e_outros_curiosos-ff69b4?style=for-the-badge)
 
 
 ## **Objetivo**
